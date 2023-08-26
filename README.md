@@ -1,4 +1,9 @@
 # LogisticRegression
+# **Name**:Srinivas
+# **Roll No**:20X01A6703
+# **Branch**:lV year cse(data science)
+# **College**:Narsimha Reddy Engineering College
+https://github.com/gangmansrinivas/srinivas
 
 # **Project** **Title** **:** To predict the heart attact diseas for organisation WHO(world health orginisation),using machine learninig algarithem rate of heart attack diseas will increasing manner or decreasing manner
 
